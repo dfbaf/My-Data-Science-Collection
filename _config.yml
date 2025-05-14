@@ -1,7 +1,7 @@
-title:              Clean Blog Danial Fahim
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              My Data Science Collection | Projects, Insights & Experiments
+email:              dfahim7@gmail.com
+description:        A personal collection of data science projects, analyses, and experiments. Featuring work in Python, machine learning, data visualization, and more.
+author:             Danial Fahim
 baseurl:            "/My-Data-Science-Collection"
 url:                "https://dfbaf.github.io"
 
